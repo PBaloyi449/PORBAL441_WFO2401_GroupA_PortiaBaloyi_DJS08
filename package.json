@@ -1,6 +1,8 @@
 {
-  "name": "Scrim-s039f66b5a",
-  "description": "https://v2.scrimba.com/advanced-react-c02h/~04p",
+  "name": "studentno-classcode-group-name-surname-djs08",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
